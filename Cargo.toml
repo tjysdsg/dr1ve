@@ -5,4 +5,4 @@ authors = ["tjysdsg <tjy1018543509@163.com>"]
 edition = "2018"
 
 [dependencies]
-bevy = "0.4"
+bevy = { path = "bevy" }
