@@ -1,0 +1,8 @@
+[package]
+name = "dr1ve"
+version = "0.1.0"
+authors = ["tjysdsg <tjy1018543509@163.com>"]
+edition = "2018"
+
+[dependencies]
+bevy = "0.4"
